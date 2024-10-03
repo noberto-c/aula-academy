@@ -15,3 +15,5 @@ sources:
       - name: product
       - name: category
       - name: supplier
+      - name: _order_
+      - name: orderdetail
